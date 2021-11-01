@@ -14,15 +14,15 @@ create_book_table.sql
 
 ## Paquetes nuget en proyecto ApiPostgresql
 
-Dapper
-Npgsql
+* Dapper
+* Npgsql
 
 
 ## Paquetes nuget en proyecto ApiPostgresql
 
-Newtonsoft.Json
-Swashbuckle.AspNetCore
-Swashbuckle.AspNetCore.Annotations
+* Newtonsoft.Json
+* Swashbuckle.AspNetCore
+* Swashbuckle.AspNetCore.Annotations
 
 Ejecutar:
 
@@ -31,8 +31,8 @@ https://localhost:44398/swagger/index.html
 
 ## Referencias
 
-https://www.c-sharpcorner.com/article/getting-started-with-postgresql-using-dapper-in-net-core/
-https://dotnetcoretutorials.com/2020/07/11/dapper-with-mysql-postgresql-on-net-core/
-Daper vs EntityFramework: https://codewithmukesh.com/blog/using-entity-framework-core-and-dapper/
+* https://www.c-sharpcorner.com/article/getting-started-with-postgresql-using-dapper-in-net-core/
+* https://dotnetcoretutorials.com/2020/07/11/dapper-with-mysql-postgresql-on-net-core/
+* Daper vs EntityFramework: https://codewithmukesh.com/blog/using-entity-framework-core-and-dapper/
 
 
