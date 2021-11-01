@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostgreSQL", "PostgreSQL\PostgreSQL.csproj", "{55DD9497-7D5B-4443-90C8-C88336963322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPostgreSQL", "ApiPostgreSQL\ApiPostgreSQL.csproj", "{01E86DA9-2C39-4F81-8FF6-E888B20A9893}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIPostgreSQLModelos", "APIPostgreSQLModelos\APIPostgreSQLModelos.csproj", "{B51A5FEC-5FA4-4484-82E1-10C2443DD9FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55DD9497-7D5B-4443-90C8-C88336963322}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55DD9497-7D5B-4443-90C8-C88336963322}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55DD9497-7D5B-4443-90C8-C88336963322}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55DD9497-7D5B-4443-90C8-C88336963322}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E86DA9-2C39-4F81-8FF6-E888B20A9893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E86DA9-2C39-4F81-8FF6-E888B20A9893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E86DA9-2C39-4F81-8FF6-E888B20A9893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E86DA9-2C39-4F81-8FF6-E888B20A9893}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B51A5FEC-5FA4-4484-82E1-10C2443DD9FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B51A5FEC-5FA4-4484-82E1-10C2443DD9FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B51A5FEC-5FA4-4484-82E1-10C2443DD9FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B51A5FEC-5FA4-4484-82E1-10C2443DD9FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5086D08F-1A45-474C-B17C-81D216C9CF20}
+	EndGlobalSection
+EndGlobal
