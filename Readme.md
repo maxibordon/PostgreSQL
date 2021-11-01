@@ -15,7 +15,7 @@ https://www.postgresql.org/download/windows/
 
 ### Ejecución de scripts de la base de datos
 
-Ejecutar los siguientes scripts que se encuentran en **ApiPostgreSQL/Scripts**, en el orden que se deja indicado:
+Ejecutar los siguientes scripts que se encuentran en **ApiPostgreSQL/Scripts**, en el orden que se deja indicado desde pgAdmin4:
 
 * createdb.sql
 * create_book_table.sql
