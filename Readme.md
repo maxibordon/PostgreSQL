@@ -40,7 +40,7 @@ Ejecutar los siguientes scripts que se encuentran en **ApiPostgreSQL/Scripts**, 
 
 https://localhost:44398/swagger/index.html
 
-### Prueba de Carga ejecutado en local 
+### Prueba de Carga ejecutado en local - Consulta de Libros
 
 Concluido el test en la primera imagen puede observarse en la segunda captura que las sesiones de la BD se liberan 
 
