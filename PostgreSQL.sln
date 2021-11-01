@@ -9,6 +9,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiPostgreSQL", "ApiPostgre
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIPostgreSQLModelos", "APIPostgreSQLModelos\APIPostgreSQLModelos.csproj", "{B51A5FEC-5FA4-4484-82E1-10C2443DD9FA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Capturas", "Capturas", "{A9F6FC24-D4EE-455C-A82F-29DE95587206}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\Desktop\pgadmin4.PNG = ..\..\..\Desktop\pgadmin4.PNG
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
