@@ -22,7 +22,7 @@ Ejecutar los siguientes scripts que se encuentran en **ApiPostgreSQL/Scripts**, 
 * createdb.sql
 * create_book_table.sql
 
-
+![pgAdmin4](/capturas/pgadmin4.JPG "PgAdmin4")
 
 ### Paquetes nuget en proyecto ApiPostgresql - Ya instalados
 
