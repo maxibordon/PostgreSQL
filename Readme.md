@@ -23,7 +23,6 @@ Ejecutar los siguientes scripts que se encuentran en **ApiPostgreSQL/Scripts**, 
 * create_book_table.sql
 
 
-![PgAdmin4](/PostgreSQL/capturas/pgAdmin4.PNG "PgAdmin 4")
 
 
 ### Paquetes nuget en proyecto ApiPostgresql - Ya instalados
