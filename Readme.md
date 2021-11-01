@@ -24,7 +24,6 @@ Ejecutar los siguientes scripts que se encuentran en **ApiPostgreSQL/Scripts**, 
 
 
 
-
 ### Paquetes nuget en proyecto ApiPostgresql - Ya instalados
 
 * Dapper
