@@ -30,9 +30,7 @@ namespace PostgreSQL
         {
             services.AddControllers();
             AddSwagger(services);
-            string connectionString = Configuration.GetConnectionString("PostgreSQLConnection");
-            // connectionString = "Server=127.0.0.1;Port=5432;Database=Books;User Id=postgres;Password=admin;";
-            //var postgreSQLConnectionConfiguration = new PostgreSQLConfiguration(Configuration.GetConnectionString("PostgreSQLConnection"));
+            string connectionString = Configuration.GetConnectionString("PostgreSQLConnection");         
               var postgreSQLConnectionConfiguration = new PostgreSQLConfiguration(connectionString);
             services.AddSingleton(postgreSQLConnectionConfiguration);
             services.AddScoped<IBookRepository, BookRepository>();
